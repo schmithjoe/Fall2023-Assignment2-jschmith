@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url('background1.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.contents {
+    text-align: center;
+}
+
+.contents header {
+    margin-bottom: 100px;
+    font-size: 3rem;
+    color: white;
+}
+
+.contents form {
+    margin-bottom: 20px;
+}
+
+.contents input {
+    height: 40px;
+    width: 600px;
+    text-align: center;
+}

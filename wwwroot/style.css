@@ -29,3 +29,12 @@ body {
     width: 600px;
     text-align: center;
 }
+
+button {
+    background-color: white;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
